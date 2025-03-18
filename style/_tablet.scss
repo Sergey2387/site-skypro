@@ -1,0 +1,159 @@
+@media(max-width: 1024px) {
+  .center {
+    padding-left: calc(50% - 393px);
+    padding-right: calc(50% - 393px);
+  }
+  .top {
+    background-size: 834px 735px;
+  }
+  .title {
+    margin-top: 64px;
+  }
+  .title-catalog {
+    margin-top: 127px;
+  }
+  .title-cart {
+    margin-top: 127px;
+  }
+  .for__item {
+    height: 268px;
+  }
+  .catalog__discount {
+    margin-bottom: -5px;
+    column-gap: 29px;
+    row-gap: 39px;
+  }
+  .products {
+    column-gap: 29px;
+    row-gap: 42px;
+
+  }
+  .product {
+    &__price-mobile_hide {
+      display: none;
+    }
+
+    &__price--discount-mobile {
+      display: block;
+    }
+
+    &__price-mobile {
+      display: block;
+    }
+
+    &__description_hide-mobile {
+      display: block;
+    }
+
+    &__description_visible-mobile {
+      display: none;
+    }
+  }
+  .box-link {
+    margin-top: 42px;
+  }
+  .footer {
+    margin-top: 65px;
+
+    &__logo {
+      display: none;
+    }
+
+  }
+  //для корзины
+  .form {
+    margin-bottom: 4px;
+  }
+  .cart {
+    column-gap: 64px;
+    grid-template-columns: repeat(8, 1fr);
+
+    &__buttons {
+      margin-top: 33px;
+      margin-bottom: 30px;
+    }
+
+    &__button-return {
+      background-color: #000000;
+      color: #fff;
+    }
+  }
+  .catalog {
+    &__catalog__discount {
+      column-gap: 29px;
+      row-gap: 30px;
+    }
+
+
+  }
+  .catalog-margin-big {
+    margin-top: 64px;
+  }
+  //планшет для каталога
+  .filter-form {
+    right: -237px;
+  }
+  .catalog-tablet {
+    margin-top: 60px;
+
+  }
+
+}
+
+@media(min-width: 767px) and (max-width: 833px) {
+  .center {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .footer {
+    margin-top: 64px;
+
+    &__logo {
+      display: none;
+    }
+  }
+  //планшет для главной
+  .product {
+    width: 345px;
+
+    &__price-mobile_hide {
+      display: none;
+    }
+
+    &__price--discount-mobile {
+      display: block;
+    }
+
+    &__price-mobile {
+      display: block;
+    }
+
+    &__description_hide-mobile {
+      display: none;
+    }
+
+    &__description_visible-mobile {
+      display: block;
+    }
+  }
+  //планшет для каталога
+  .filter-form {
+    right: -237px;
+  }
+  .catalog-tablet {
+    margin-top: 60px;
+
+  }
+  //планшет для корзины
+  .cart {
+    column-gap: 64px;
+    grid-template-columns: repeat(8, 1fr);
+
+    &__button-return {
+      background-color: #000000;
+    }
+
+
+  }
+
+}

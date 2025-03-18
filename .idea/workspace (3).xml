@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7c74d48-e73c-4b6e-b3bb-da8af6e6c5d3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qqcO6BrMLsPy9vQrJOUHg8sl82" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NSA/YandexDisk/HTML/sky_pro/site&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\NSA\\AppData\\Roaming\\npm\\node_modules\\prettier&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nason\YandexDisk\HTML\sky_pro\site" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nason\YandexDisk\HTML\sky_pro\site\style" />
+      <recent name="C:\Users\NSA\YandexDisk\HTML\sky_pro\site" />
+      <recent name="C:\Users\NSA\YandexDisk\HTML\sky_pro\site\style" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c74d48-e73c-4b6e-b3bb-da8af6e6c5d3" name="Changes" comment="" />
+      <created>1735393510474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735393510474</updated>
+      <workItem from="1735393511722" duration="343000" />
+      <workItem from="1735395094526" duration="157000" />
+      <workItem from="1736163171965" duration="186000" />
+      <workItem from="1736163376257" duration="409000" />
+      <workItem from="1736163798705" duration="153000" />
+      <workItem from="1738829962599" duration="266000" />
+      <workItem from="1738848019271" duration="9179000" />
+      <workItem from="1738914103110" duration="2400000" />
+      <workItem from="1739000491753" duration="1785000" />
+      <workItem from="1739104094237" duration="2382000" />
+      <workItem from="1739121415935" duration="5290000" />
+      <workItem from="1739135334098" duration="2418000" />
+      <workItem from="1739140168978" duration="858000" />
+      <workItem from="1739171709878" duration="6622000" />
+      <workItem from="1739252921019" duration="2704000" />
+      <workItem from="1739255657522" duration="211000" />
+      <workItem from="1739255990244" duration="504000" />
+      <workItem from="1739354491958" duration="1871000" />
+      <workItem from="1739367004710" duration="1794000" />
+      <workItem from="1739372339708" duration="2395000" />
+      <workItem from="1739383681927" duration="1304000" />
+      <workItem from="1739426891035" duration="5700000" />
+      <workItem from="1739447997335" duration="484000" />
+      <workItem from="1739448700769" duration="2829000" />
+      <workItem from="1739481231216" duration="4586000" />
+      <workItem from="1739550191228" duration="606000" />
+      <workItem from="1739604036873" duration="5279000" />
+      <workItem from="1739612887276" duration="767000" />
+      <workItem from="1739624515341" duration="3630000" />
+      <workItem from="1739632347544" duration="409000" />
+      <workItem from="1739687760812" duration="853000" />
+      <workItem from="1739717118708" duration="105000" />
+      <workItem from="1739770175612" duration="5103000" />
+      <workItem from="1739781731766" duration="561000" />
+      <workItem from="1739819909219" duration="139000" />
+      <workItem from="1739820142274" duration="996000" />
+      <workItem from="1739821168091" duration="255000" />
+      <workItem from="1739821481367" duration="242000" />
+      <workItem from="1739825132860" duration="1513000" />
+      <workItem from="1739826669364" duration="150000" />
+      <workItem from="1739826839755" duration="179000" />
+      <workItem from="1739827031444" duration="1324000" />
+      <workItem from="1739829778754" duration="375000" />
+      <workItem from="1739830349136" duration="1000" />
+      <workItem from="1739830963915" duration="117000" />
+      <workItem from="1739867021675" duration="676000" />
+      <workItem from="1739868002593" duration="754000" />
+      <workItem from="1739901620086" duration="76000" />
+      <workItem from="1739901732013" duration="117000" />
+      <workItem from="1739901893219" duration="794000" />
+      <workItem from="1739902751598" duration="728000" />
+      <workItem from="1739903502029" duration="397000" />
+      <workItem from="1739947031840" duration="2992000" />
+      <workItem from="1739950064387" duration="780000" />
+      <workItem from="1739951705414" duration="1009000" />
+      <workItem from="1739963958126" duration="989000" />
+      <workItem from="1739964974930" duration="358000" />
+      <workItem from="1739965535770" duration="4000" />
+      <workItem from="1739966444956" duration="8000" />
+      <workItem from="1740043643794" duration="734000" />
+      <workItem from="1740044557381" duration="6000" />
+      <workItem from="1740063605984" duration="676000" />
+      <workItem from="1740116857951" duration="1465000" />
+      <workItem from="1740118383024" duration="3000" />
+      <workItem from="1740118706533" duration="499000" />
+      <workItem from="1740119226654" duration="72000" />
+      <workItem from="1740120214820" duration="571000" />
+      <workItem from="1740120841667" duration="315000" />
+      <workItem from="1740132334640" duration="3276000" />
+      <workItem from="1740156303516" duration="146000" />
+      <workItem from="1740163631115" duration="5248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,354 @@
+@media (max-width: 767px) {
+  //общее
+  .center {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .top .top-cart {
+    height: 400px;
+
+  }
+  .header {
+    padding-top: 24px;
+    border-bottom: none;
+
+    &__logo {
+      width: 99px;
+    }
+
+    &__search {
+      display: none;
+    }
+
+    &__menu {
+      display: none;
+    }
+
+    &__menu-mobile {
+      display: flex;
+      align-items: center;
+      gap: 32px;
+
+    }
+
+    .header-logo-cart {
+      padding-top: 13px;
+    }
+  }
+  .footer {
+    margin-top: 32px;
+
+    &__info {
+      justify-content: space-between;
+    }
+
+    &__content {
+      flex-direction: column;
+      align-items: center;
+      gap: 67px;
+    }
+  }
+  .title {
+    margin-top: 82px;
+
+    &__text {
+      font-size: 48px;
+      line-height: normal;
+      text-align: center;
+    }
+
+    &__text-furniture {
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 32px;
+      text-align: center;
+    }
+
+    &__catalog-link {
+      font-size: 14px;
+      text-align: center;
+    }
+  }
+  //мобильный для корзины
+  .top-cart {
+    background-position-x: -750px;
+  }
+  .title-cart {
+    margin-top: 72px;
+  }
+  .cart {
+    column-gap: 64px;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 92px;
+
+    &__name-box {
+      display: none;
+    }
+
+    &__content {
+      grid-column: span 4;
+    }
+
+    &__item_padding_small {
+      padding-top: 18px;
+    }
+
+    &__item_padding_big {
+      padding-top: 11px;
+    }
+
+    &__item-wrap {
+      gap: 8px;
+      width: 253px;
+    }
+
+    &__item-info {
+      width: 253px;
+
+    }
+
+    &__item-name {
+      font-size: 18px;
+    }
+
+    &__item-description {
+      font-size: 12px;
+    }
+
+    &__item-description_mobile {
+      font-size: 14px;
+    }
+
+    &__item-price {
+      font-size: 12px;
+    }
+
+    &__item-price_mobile {
+      font-size: 14px;
+    }
+
+    &__item-img {
+      display: none;
+    }
+
+    &__buttons {
+      gap: 14px;
+      margin-top: 28px;
+      margin-bottom: 16px;
+    }
+
+    &__button {
+      cursor: pointer;
+      width: 163px;
+      height: 37px;
+      padding: 11px 0px 11px 6px;
+      box-sizing: border-box;
+      display: flex;
+      align-content: center;
+      align-items: center;
+      font-size: 12px;
+    }
+
+    &__button-return {
+      font-size: 12px;
+      width: 163px;
+      background-color: #000000;
+      color: #fff;
+      height: 37px;
+      padding: 11px 0px 11px 6px;
+      align-items: center;
+      box-sizing: border-box;
+      display: flex;
+    }
+  }
+  .product {
+    width: 343px;
+
+    &__price-list {
+      gap: 55px;
+    }
+
+    &__name {
+      font-size: 18px;
+    }
+
+    &__price {
+      font-size: 18px;
+      line-height: normal;
+    }
+
+    &__price-mobile_hide {
+      display: none;
+    }
+
+    &__price--discount-mobile {
+      display: block;
+    }
+
+    &__price-mobile {
+      display: block;
+    }
+
+    &__description {
+      margin-top: 10px;
+      margin-bottom: 8px;
+    }
+
+    &__description_hide-mobile {
+      display: none;
+    }
+
+    &__description_visible-mobile {
+      display: block;
+    }
+
+  }
+
+  .form {
+    width: 343px;
+    margin-bottom: 18px;
+
+  }
+
+  .catalog {
+    margin-top: 30px;
+
+    &__discount {
+      justify-content: center;
+      row-gap: 32px;
+    }
+
+    &__text {
+      font-size: 24px;
+      margin-bottom: 30px;
+
+    }
+
+    &__link {
+      font-size: 14px;
+    }
+
+    &__sort-popular {
+      font-size: 14px;
+    }
+
+
+  }
+  .box-link {
+
+    &__catalog-mobile {
+      display: block;
+    }
+
+    &__catalog {
+      display: none;
+    }
+
+    &__catalog_main {
+      display: block;
+      padding-top: 7px;
+    }
+
+  }
+  //мобильный для каталога
+
+
+  .title-catalog {
+    margin-top: 69px;
+  }
+  .logo-mobile {
+    padding-top: 12px;
+  }
+  .catalog {
+    margin-top: 30px;
+
+    &__sort-popular {
+      background: url(../img/select-btn.svg) no-repeat 162px 15px;
+      width: 205px;
+    }
+
+    &__links {
+
+    }
+
+    &__menu {
+      flex-direction: column;
+      margin-bottom: 32px;
+      gap: 16px;
+    }
+
+    &__filter-box {
+      flex-direction: column-reverse;
+    }
+  }
+  .filter-form {
+    right: -81px;
+    max-height: 910px;
+    max-width: 287px;
+
+    &__content-wrapper {
+      max-height: 830px;
+      max-width: 190px;
+      min-width: auto;
+    }
+
+    &__button-container {
+      justify-content: flex-start;
+    }
+  }
+  .filter-button {
+    max-width: 165px;
+    font-size: 14px;
+    background: url(../img/select-btn.svg) no-repeat right 22px center;
+  }
+  .products {
+    row-gap: 35px;
+  }
+  //мобильный для главной
+  .top-main {
+    background-position-x: -129px;
+    background-size: 825px 735px;
+  }
+  .title-main_mobile {
+    margin-top: 20px;
+  }
+  .for {
+    &__text {
+      font-size: 24px;
+      margin-top: 32px;
+    }
+
+    &__list {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+    }
+
+    &__item-link {
+      font-size: 28px;
+    }
+
+    .__item_big {
+      height: 244px;
+    }
+
+    &__item {
+      grid-column: span 4;
+      height: 244px;
+    }
+
+    &__item-kitchen {
+      height: 375px;
+    }
+
+    &__item-children {
+      height: 375px;
+    }
+
+    &__item-bathroom {
+      height: 375px;
+    }
+  }
+  .catalog-mobile {
+    margin-top: 39px;
+  }
+}
