@@ -692,6 +692,7 @@ li {
   max-width: 260px;
 }
 .footer__subscribe-button:hover {
+  cursor: pointer;
   background-color: #000000;
   color: #ffffff;
 }
