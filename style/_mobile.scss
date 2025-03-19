@@ -177,9 +177,7 @@
       line-height: normal;
     }
 
-    &__price-mobile_hide {
-      display: none;
-    }
+
 
     &__price--discount-mobile {
       display: block;
@@ -188,7 +186,9 @@
     &__price-mobile {
       display: block;
     }
-
+    &__price-mobile_hide {
+      display: none;
+    }
     &__description {
       margin-top: 10px;
       margin-bottom: 8px;

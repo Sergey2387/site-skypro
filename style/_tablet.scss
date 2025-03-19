@@ -29,9 +29,6 @@
 
   }
   .product {
-    &__price-mobile_hide {
-      display: none;
-    }
 
     &__price--discount-mobile {
       display: block;
@@ -46,6 +43,9 @@
     }
 
     &__description_visible-mobile {
+      display: none;
+    }
+    &__price-mobile-hide {
       display: none;
     }
   }
@@ -116,9 +116,6 @@
   .product {
     width: 345px;
 
-    &__price-mobile_hide {
-      display: none;
-    }
 
     &__price--discount-mobile {
       display: block;
@@ -128,6 +125,9 @@
       display: block;
     }
 
+    &__price-mobile_hide {
+      display: none;
+    }
     &__description_hide-mobile {
       display: none;
     }

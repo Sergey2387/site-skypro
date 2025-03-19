@@ -1262,9 +1262,6 @@ li {
     column-gap: 29px;
     row-gap: 42px;
   }
-  .product__price-mobile_hide {
-    display: none;
-  }
   .product__price--discount-mobile {
     display: block;
   }
@@ -1275,6 +1272,9 @@ li {
     display: block;
   }
   .product__description_visible-mobile {
+    display: none;
+  }
+  .product__price-mobile-hide {
     display: none;
   }
   .box-link {
@@ -1329,14 +1329,14 @@ li {
   .product {
     width: 345px;
   }
-  .product__price-mobile_hide {
-    display: none;
-  }
   .product__price--discount-mobile {
     display: block;
   }
   .product__price-mobile {
     display: block;
+  }
+  .product__price-mobile_hide {
+    display: none;
   }
   .product__description_hide-mobile {
     display: none;
@@ -1504,14 +1504,14 @@ li {
     font-size: 18px;
     line-height: normal;
   }
-  .product__price-mobile_hide {
-    display: none;
-  }
   .product__price--discount-mobile {
     display: block;
   }
   .product__price-mobile {
     display: block;
+  }
+  .product__price-mobile_hide {
+    display: none;
   }
   .product__description {
     margin-top: 10px;
