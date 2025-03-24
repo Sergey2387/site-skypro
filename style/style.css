@@ -1481,7 +1481,7 @@ li {
     cursor: pointer;
     width: 163px;
     height: 37px;
-    padding: 11px 0px 11px 6px;
+    padding: 11px 0 11px 6px;
     box-sizing: border-box;
     display: flex;
     align-content: center;
@@ -1494,7 +1494,7 @@ li {
     background-color: #000000;
     color: #fff;
     height: 37px;
-    padding: 11px 0px 11px 6px;
+    padding: 11px 0 11px 6px;
     align-items: center;
     box-sizing: border-box;
     display: flex;

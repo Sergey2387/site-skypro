@@ -1,4 +1,4 @@
-@import "variables";
+@import 'variables';
 
 * {
   margin: 0;
@@ -338,30 +338,30 @@ li {
   }
 
   &__item-relax {
-    background: url("../img/for-relax.jpg") no-repeat;
+    background: url('../img/for-relax.jpg') no-repeat;
     background-size: cover;
   }
 
   &__item-work {
-    background-image: url("../img/for-work.jpg");
+    background-image: url('../img/for-work.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   &__item-kitchen {
-    background-image: url("../img/for-kichen.jpg");
+    background-image: url('../img/for-kichen.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   &__item-children {
-    background-image: url("../img/for-children-room.jpg");
+    background-image: url('../img/for-children-room.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   &__item-bathroom {
-    background-image: url("../img/for-bathroom.jpg");
+    background-image: url('../img/for-bathroom.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -807,7 +807,7 @@ li {
   margin-top: 65px;
 }
 
-@import "cart";
-@import "filter-form";
-@import "tablet";
-@import "mobile";
+@import 'cart';
+@import 'filter-form';
+@import 'tablet';
+@import 'mobile';

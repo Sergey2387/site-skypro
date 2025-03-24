@@ -6,7 +6,6 @@
   }
   .top .top-cart {
     height: 400px;
-
   }
   .header {
     padding-top: 24px;
@@ -28,7 +27,6 @@
       display: flex;
       align-items: center;
       gap: 32px;
-
     }
 
     .header-logo-cart {
@@ -104,7 +102,6 @@
 
     &__item-info {
       width: 253px;
-
     }
 
     &__item-name {
@@ -141,7 +138,7 @@
       cursor: pointer;
       width: 163px;
       height: 37px;
-      padding: 11px 0px 11px 6px;
+      padding: 11px 0 11px 6px;
       box-sizing: border-box;
       display: flex;
       align-content: center;
@@ -155,7 +152,7 @@
       background-color: #000000;
       color: #fff;
       height: 37px;
-      padding: 11px 0px 11px 6px;
+      padding: 11px 0 11px 6px;
       align-items: center;
       box-sizing: border-box;
       display: flex;
@@ -176,8 +173,6 @@
       font-size: 18px;
       line-height: normal;
     }
-
-
 
     &__price--discount-mobile {
       display: block;
@@ -201,13 +196,11 @@
     &__description_visible-mobile {
       display: block;
     }
-
   }
 
   .form {
     width: 343px;
     margin-bottom: 18px;
-
   }
 
   .catalog {
@@ -221,7 +214,6 @@
     &__text {
       font-size: 24px;
       margin-bottom: 30px;
-
     }
 
     &__link {
@@ -231,11 +223,8 @@
     &__sort-popular {
       font-size: 14px;
     }
-
-
   }
   .box-link {
-
     &__catalog-mobile {
       display: block;
     }
@@ -248,10 +237,8 @@
       display: block;
       padding-top: 7px;
     }
-
   }
   //мобильный для каталога
-
 
   .title-catalog {
     margin-top: 69px;
@@ -268,7 +255,6 @@
     }
 
     &__links {
-
     }
 
     &__menu {
