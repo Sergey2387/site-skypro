@@ -75,7 +75,7 @@
     max-height: 468px;
     min-width: 445px;
   }
-  &__content-wrapper fieldset{
+  &__content-wrapper fieldset {
     max-width: 190px;
   }
 
@@ -161,7 +161,7 @@
   &__input,
   &__input::-webkit-slider-runnable-track,
   &__input::-webkit-slider-thumb {
-    -moz-appearance: none;  /*для firefox*/
+    -moz-appearance: none; /*для firefox*/
     -webkit-appearance: none;
     background: none;
   }
@@ -171,7 +171,8 @@
     height: 1px;
     background: $color-black;
   }
-  &__input::-moz-range-track {   /* для Firefox */
+  &__input::-moz-range-track {
+    /* для Firefox */
     height: 1px;
     background: $color-black;
   }
@@ -191,7 +192,8 @@
     cursor: pointer;
     z-index: 1;
   }
-  &__input::-moz-range-thumb { /*для Firefox */
+  &__input::-moz-range-thumb {
+    /*для Firefox */
     width: 8px;
     height: 8px;
     background: #000;

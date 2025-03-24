@@ -114,6 +114,10 @@ li {
   line-height: 20px;
 }
 
+.header-cart:hover {
+  display: block;
+}
+
 .header-cart {
   position: absolute;
   box-sizing: border-box;
@@ -1090,7 +1094,8 @@ li {
   height: 1px;
   background: #000000;
 }
-.range__input::-moz-range-track { /* для Firefox */
+.range__input::-moz-range-track {
+  /* для Firefox */
   height: 1px;
   background: #000000;
 }
@@ -1108,7 +1113,8 @@ li {
   cursor: pointer;
   z-index: 1;
 }
-.range__input::-moz-range-thumb { /*для Firefox */
+.range__input::-moz-range-thumb {
+  /*для Firefox */
   width: 8px;
   height: 8px;
   background: #000;
