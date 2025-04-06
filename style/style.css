@@ -1602,6 +1602,7 @@ li {
     background: url(../img/select-btn.svg) no-repeat right 22px center;
   }
   .products {
+    justify-content: center;
     row-gap: 35px;
   }
   .top-main {

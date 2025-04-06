@@ -249,6 +249,7 @@
   .catalog {
     margin-top: 30px;
 
+
     &__sort-popular {
       background: url(../img/select-btn.svg) no-repeat 162px 15px;
       width: 205px;
@@ -288,7 +289,8 @@
     background: url(../img/select-btn.svg) no-repeat right 22px center;
   }
   .products {
-    row-gap: 35px;
+    justify-content: center;
+    row-gap: 35px
   }
   //мобильный для главной
   .top-main {
